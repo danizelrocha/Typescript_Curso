@@ -7,6 +7,8 @@ numero = 321;
 let deuBom: boolean = false;
 deuBom = true;
 
-const fun = (value: string) => {
-    return console.log(value);
+const fun = (value: string): string => {
+    return value;
 };
+
+console.log(fun("Daniel Alves da Rocha"));
