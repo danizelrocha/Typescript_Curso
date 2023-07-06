@@ -1,12 +1,12 @@
 // tuplas
-let array1: [string, string, number, boolean] = [
+let array1: [string, string, number, boolean] = [ // este tem uma ordem especifica recebe o nome de tupla [   ]
     "Daniel Alves da Rocha",
     "Teste",
     123,
     false,
   ];
   
-  let array2: Array<string | number | boolean> = [
+  let array2: Array<string | number | boolean> = [  // este arry não tem ordem nem quantidade especifica usamos o sinal <  >
     true,
     "Daniel",
     123,
