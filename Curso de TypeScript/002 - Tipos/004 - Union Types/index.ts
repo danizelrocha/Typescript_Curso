@@ -1,4 +1,6 @@
 // Union type
+
+
 /* let value: string | number = "Daniel" // usndo number
 value = 123; */
 
